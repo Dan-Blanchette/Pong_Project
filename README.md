@@ -14,7 +14,7 @@
 - Player 2: use "i" and "k" to move the right paddale up and down.
 - "h" will pause the game and access the help menu.
 - "p" will pause the game and display the resume button or you may hit "p" once more to resume. 
-The "Quit" button can also be interacted with via mouse from tihs screen.
+The "Quit" button can also be interacted with via mouse from this screen.
 - "ESC" will close the game.
 - First to 10 points wins the game. Good luck and have fun!
 
