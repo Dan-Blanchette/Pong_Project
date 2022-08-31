@@ -1,4 +1,4 @@
-# Pong made in Unity 
+# Pong Made in Unity 
 ## by Dan Blanchette
 
 ### References:
@@ -9,7 +9,7 @@
 
 
 # Quick Launch Instructions:
-- Double Click the Pong_DanB.exe file
+- Double click the Pong_DanB.exe file
 - Player 1: use "w" and "s" to move the left padddle up and down.
 - Player 2: use "i" and "k" to move the right paddale up and down.
 - "h" will pause the game and access the help menu.
