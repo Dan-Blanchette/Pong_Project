@@ -38,6 +38,6 @@ The "Quit" button can also be interacted with via mouse from this screen.
   The UnityDownloadAssisant-x.x.exe File should be downloaded to your "Downloads" folder (where x.x denotes the current Unity version).
 2) Open the download installer and follow the prompts and accept the lincensing agreements if any.
 4) Review the components and packages you would like to have installed along with Unity and click "Next".
-### NOTE: If you accidentally installed a package or feature, uninstall, then re-install Unity and re-select the install-packages.
+### NOTE: If you accidentally installed a package or feature, uninstall, then re-install Unity and re-select the desired install-packages.
   
   
