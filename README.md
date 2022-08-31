@@ -21,7 +21,7 @@ The "Quit" button can also be interacted with via mouse from tihs screen.
 # Compiling The Source Code:
 1) Clone the github repository by going to the "Code" drop down menu and select HTTPS.
 2) Copy the provided link.
-3) Open up your preferred shell environment and ensure you have any Github packages for your home environment installed.
+3) Open up your preferred shell environment and ensure you have any Github packages installed.
 4) On the command line type: git clone <paste repository address> and hit enter.
 5) Visit Unity's webpage and download version 2021.3.8f1 (if you don't have it installed) https://unity3d.com/get-unity/download/archive.
 - Review the intallation instructions
