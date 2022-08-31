@@ -1,2 +1,2 @@
-# Pong_Project
-CS383 pong project Fall 2022
+# Pong made in Unity 
+## by Dan Blanchette
